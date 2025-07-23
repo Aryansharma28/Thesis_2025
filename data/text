@@ -1,0 +1,7 @@
+XSum: Shortest documents on average (mean ≈ 378 words).
+
+CNN/DailyMail: Medium-length documents (mean ≈ 673 words).
+
+GovReport: By far the longest documents (mean ≈ 7,474 words), with some reports exceeding 30,000 words.
+
+Here it will show how much it differs based on task complexity.

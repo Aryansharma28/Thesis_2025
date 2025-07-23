@@ -1,0 +1,68 @@
+[
+  {
+    "file": "cnn_dailymail_claude.json",
+    "examples": 75,
+    "rouge1": 0.3429730589287208,
+    "rouge2": 0.12468262113466394,
+    "rougeL": 0.21409260310043035,
+    "rougeLsum": 0.2794989921558211,
+    "bertscore_precision": 0.8561214288075765,
+    "bertscore_recall": 0.8796740690867106,
+    "bertscore_f1": 0.8676376732190451
+  },
+  {
+    "file": "cnn_dailymail_gpt4.json",
+    "examples": 75,
+    "rouge1": 0.3459474671550127,
+    "rouge2": 0.13218806371177355,
+    "rougeL": 0.2173850651294113,
+    "rougeLsum": 0.2783899459305963,
+    "bertscore_precision": 0.8624050339063009,
+    "bertscore_recall": 0.8797333518664042,
+    "bertscore_f1": 0.8708725539843242
+  },
+  {
+    "file": "govreport_claude.json",
+    "examples": 75,
+    "rouge1": 0.30884553033480955,
+    "rouge2": 0.10250031576854668,
+    "rougeL": 0.16054554052134865,
+    "rougeLsum": 0.22882234196204665,
+    "bertscore_precision": 0.8427670907974243,
+    "bertscore_recall": 0.8385680643717448,
+    "bertscore_f1": 0.8406254355112711
+  },
+  {
+    "file": "govreport_gpt4.json",
+    "examples": 75,
+    "rouge1": 0.4267931332308565,
+    "rouge2": 0.13438189294372338,
+    "rougeL": 0.18702009962068178,
+    "rougeLsum": 0.23185032149100965,
+    "bertscore_precision": 0.8601411088307699,
+    "bertscore_recall": 0.8527173781394959,
+    "bertscore_f1": 0.8563830439249674
+  },
+  {
+    "file": "xsum_claude.json",
+    "examples": 75,
+    "rouge1": 0.18745355467354727,
+    "rouge2": 0.04972631491981381,
+    "rougeL": 0.12623556971393288,
+    "rougeLsum": 0.12913399810646592,
+    "bertscore_precision": 0.8348507674535116,
+    "bertscore_recall": 0.888671407699585,
+    "bertscore_f1": 0.8606952865918477
+  },
+  {
+    "file": "xsum_gpt4.json",
+    "examples": 75,
+    "rouge1": 0.1710839485825546,
+    "rouge2": 0.039756866261749416,
+    "rougeL": 0.11610984051158535,
+    "rougeLsum": 0.11593339891434898,
+    "bertscore_precision": 0.8351505414644878,
+    "bertscore_recall": 0.8853610563278198,
+    "bertscore_f1": 0.8593363110224406
+  }
+]

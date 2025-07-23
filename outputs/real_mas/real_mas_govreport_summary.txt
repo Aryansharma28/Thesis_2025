@@ -1,0 +1,11 @@
+Real MAS System Results - GOVREPORT
+==================================================
+
+Goal: Create a comprehensive executive summary for policy makers
+Dataset file: data/govreport_dev.jsonl
+Total documents processed: 75
+Total processing time: 3936.8s
+Average time per document: 52.5s
+Total tokens used: 1,499,075
+Average compression ratio: 45.8x
+Average repetition score: 0.031

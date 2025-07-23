@@ -1,0 +1,13 @@
+Real Adaptive System Results - CNN_DAILYMAIL
+==================================================
+
+Goal: Create bullet-point highlights for news readers
+Dataset file: data/cnn_dailymail_dev.jsonl
+Total documents processed: 75
+Total processing time: 5972.7s
+Average time per document: 79.6s
+Total tokens used: 754,934
+Total feedback iterations: 0
+Average feedback iterations per document: 0.0
+Average compression ratio: 6.3x
+Average repetition score: 0.018

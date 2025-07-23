@@ -1,0 +1,13 @@
+Real Adaptive System Results - GOVREPORT
+==================================================
+
+Goal: Create a comprehensive executive summary for policy makers
+Dataset file: data/govreport_dev.jsonl
+Total documents processed: 75
+Total processing time: 6615.9s
+Average time per document: 88.2s
+Total tokens used: 1,963,868
+Total feedback iterations: 0
+Average feedback iterations per document: 0.0
+Average compression ratio: 43.2x
+Average repetition score: 0.032

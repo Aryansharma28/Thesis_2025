@@ -1,0 +1,11 @@
+Real MAS System Results - CNN_DAILYMAIL
+==================================================
+
+Goal: Create bullet-point highlights for news readers
+Dataset file: data/cnn_dailymail_dev.jsonl
+Total documents processed: 75
+Total processing time: 3516.4s
+Average time per document: 46.9s
+Total tokens used: 475,378
+Average compression ratio: 6.3x
+Average repetition score: 0.018

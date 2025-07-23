@@ -1,0 +1,13 @@
+Real Adaptive System Results - XSUM
+==================================================
+
+Goal: Create a single sentence summary capturing the main point
+Dataset file: data/xsum_dev.jsonl
+Total documents processed: 75
+Total processing time: 5009.3s
+Average time per document: 66.8s
+Total tokens used: 620,802
+Total feedback iterations: 0
+Average feedback iterations per document: 0.0
+Average compression ratio: 11.3x
+Average repetition score: 0.001

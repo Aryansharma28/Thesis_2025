@@ -1,0 +1,11 @@
+Real MAS System Results - XSUM
+==================================================
+
+Goal: Create a single sentence summary capturing the main point
+Dataset file: data/xsum_dev.jsonl
+Total documents processed: 75
+Total processing time: 2686.9s
+Average time per document: 35.8s
+Total tokens used: 379,567
+Average compression ratio: 11.3x
+Average repetition score: 0.000
